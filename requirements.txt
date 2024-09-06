@@ -1,0 +1,7 @@
+# --------- GUI
+PySide6
+PySide6-Fluent-Widgets[full]
+# --------- Excel
+openpyxl
+# --------- Others
+PyYAML

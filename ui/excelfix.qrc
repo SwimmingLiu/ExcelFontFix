@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>../images/swimmingliu_icon.png</file>
+  </qresource>
+  <qresource prefix="background">
+    <file>../images/excel_background.png</file>
+  </qresource>
+  <qresource prefix="tool">
+    <file>../images/import_excel.png</file>
+    <file>../images/convert.png</file>
+    <file>../images/excel.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,1 @@
+pyinstaller -D --exclude-module PyQt5 --exclude-module torch --exclude-module torchvision --exclude-module cv2 --exclude-module PIL --distpath "E:\PycharmProject\ExcelFontRepair\BinaryExec" -w -i "E:\PycharmProject\ExcelFontRepair\images\swimmingliu.ico" main.py --add-data=ui:BinaryExec --add-data=config:BinaryExec --add-data=result:BinaryExec --add-data=images:BinaryExec
